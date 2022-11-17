@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61838556.css",
+    "main.js": "/static/js/main.b4876ade.js",
+    "static/media/Axisbank background.jpg": "/static/media/Axisbank background.bab2c751b878e8bdc6a5.jpg",
+    "index.html": "/index.html",
+    "main.61838556.css.map": "/static/css/main.61838556.css.map",
+    "main.b4876ade.js.map": "/static/js/main.b4876ade.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61838556.css",
+    "static/js/main.b4876ade.js"
+  ]
+}
